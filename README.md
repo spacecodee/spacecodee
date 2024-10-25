@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spacecodee" alt="spacecodee" /></a> </p>
 
-- 🔭 I’m currently working on [Music Project: Spring Boot and Spring Security.](https://github.com/spacecodee/spring_security_music_p)
+- 🔭 I’m currently working on [Spring Boot: Open Security Template.](https://github.com/spacecodee/springboot-security-open-template.git)
 
 - 🌱 I’m currently learning **Frameworks, Languages, Improving myself. 🛸**
 
