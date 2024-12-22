@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on Any project that involves AI and Backend
 - 💬 Ask me about BackEnd development with Spring Boot
 - 📫 How to reach me: [Instagram](https://www.instagram.com/spacecodee)
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: If you can imagine it, you can program it!
 
 ## GitHub Stats
