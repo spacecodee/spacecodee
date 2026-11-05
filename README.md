@@ -7,8 +7,8 @@ Backend engineer from Perú. I build with Spring Boot and Hexagonal Architecture
 
 If you can imagine it, you can program it.
 
-<a href="https://www.youtube.com/@spacecodee"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-spacecodee-2DD4BF?style=for-the-badge&logo=youtube&logoColor=0B1020"></a>
-<a href="https://www.instagram.com/spacecodee"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-spacecodee-2DD4BF?style=for-the-badge&logo=instagram&logoColor=0B1020"></a>
+<a href="https://www.youtube.com/@spacecodee"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-spacecodee-EA5E50?style=for-the-badge&logo=youtube&logoColor=000000"></a>
+<a href="https://www.instagram.com/spacecodee"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-spacecodee-EA5E50?style=for-the-badge&logo=instagram&logoColor=000000"></a>
 
 ## Stack
 
@@ -34,11 +34,11 @@ Extracts product data from photos with Google Gemini. Angular 21, Supabase and T
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=spacecodee&hide_border=true&background=0B1020&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=9AA7BD">
-  <img alt="spacecodee's contribution streak" src="https://streak-stats.demolab.com/?user=spacecodee&hide_border=true&background=F4F7FB&ring=0F9D8A&fire=0F9D8A&currStreakLabel=0F9D8A&sideLabels=0B1020&currStreakNum=0B1020&sideNums=0B1020&dates=44506A" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=spacecodee&hide_border=true&background=000000&ring=EA5E50&fire=EA5E50&currStreakLabel=EA5E50&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A6A6A6">
+  <img alt="spacecodee's contribution streak" src="https://streak-stats.demolab.com/?user=spacecodee&hide_border=true&background=FFFFFF&ring=D65244&fire=D65244&currStreakLabel=D65244&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=555555" width="100%">
 </picture>
 
-<img alt="Contributions over the last year" src="https://ghchart.rshah.org/2DD4BF/spacecodee" width="100%">
+<img alt="Contributions over the last year" src="https://ghchart.rshah.org/D65244/spacecodee" width="100%">
 
 ## Tools and experiments
 
