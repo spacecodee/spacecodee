@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="spacecodee, backend engineer">
+<rect width="1200" height="300" fill="#0B1020"/>
+<circle cx="70" cy="40" r="3" fill="#E6EDF3"/><circle cx="180" cy="260" r="2" fill="#E6EDF3"/><circle cx="310" cy="70" r="2" fill="#E6EDF3"/><circle cx="430" cy="250" r="3" fill="#E6EDF3"/><circle cx="560" cy="30" r="2" fill="#E6EDF3"/><circle cx="690" cy="270" r="2" fill="#E6EDF3"/><circle cx="780" cy="60" r="3" fill="#E6EDF3"/><circle cx="880" cy="230" r="2" fill="#E6EDF3"/><circle cx="1130" cy="40" r="2" fill="#E6EDF3"/><circle cx="1150" cy="265" r="3" fill="#E6EDF3"/><circle cx="960" cy="40" r="2" fill="#E6EDF3"/><circle cx="600" cy="275" r="2" fill="#E6EDF3"/>
+<g transform="rotate(-14 1010 150)">
+<ellipse cx="1010" cy="150" rx="128" ry="30" fill="none" stroke="#E6EDF3" stroke-width="10"/>
+<circle cx="1010" cy="150" r="78" fill="#2DD4BF"/>
+<path d="M 882 150 A 128 30 0 0 0 1138 150" fill="none" stroke="#E6EDF3" stroke-width="10"/>
+</g>
+<text x="60" y="165" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="104" font-weight="800" letter-spacing="-3" fill="#E6EDF3">spacecodee</text>
+<text x="64" y="222" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="500" fill="#9AA7BD">Backend engineer. Spring Boot, Angular, AI agents.</text>
+</svg>
